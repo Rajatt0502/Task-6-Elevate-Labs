@@ -31,3 +31,11 @@ Entering invalid email format → shows email error.
 Filling all fields correctly → shows success message.
 
 📷 Screenshots / Demo
+<img width="1919" height="1025" alt="Screenshot 2025-10-01 215610" src="https://github.com/user-attachments/assets/ae9e8070-058c-4db3-a198-69bdf322f91a" />
+
+<img width="727" height="320" alt="Screenshot 2025-10-01 220003" src="https://github.com/user-attachments/assets/e53c6c39-da34-45b5-8a3a-dacbc54e2f65" />
+
+<img width="1919" height="1020" alt="Screenshot 2025-10-01 215532" src="https://github.com/user-attachments/assets/fb57bcd1-838c-4a7b-8c7d-95241fb073e3" />
+
+
+
