@@ -26,7 +26,7 @@ Test the form by:
 
 Leaving fields empty → shows error messages.
 
-Entering invalid email format → shows email error.
+Entering invalid email format to shows email error.
 
 Filling all fields correctly to shows success message.
 
