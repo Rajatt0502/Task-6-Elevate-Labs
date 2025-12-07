@@ -28,7 +28,7 @@ Leaving fields empty → shows error messages.
 
 Entering invalid email format → shows email error.
 
-Filling all fields correctly → shows success message.
+Filling all fields correctly to shows success message.
 
 📷 Screenshots / Demo
 <img width="1919" height="1025" alt="Screenshot 2025-10-01 215610" src="https://github.com/user-attachments/assets/ae9e8070-058c-4db3-a198-69bdf322f91a" />
